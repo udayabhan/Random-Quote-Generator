@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+  }
+  .display{
+    background: #ffffff;
+    min-height:20px;
+    box-shadow: 0 0 20px rgba(0,139,253,0.25);
+  }
+  .container button {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 25px;
+    color: #ffffff;
+    cursor: pointer;
+    background-color: #023b80;
+    border: none;
+    padding: 15px 45px;
+    border-radius: 5px;
+  }
+  
+  body {
+    background-color: red;
+  }
+  
+ 
